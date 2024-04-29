@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OlozanoTamy
+- 👀 I’m interested in learn about all the software lifecicle
+- 🌱 I’m currently learning Docker
